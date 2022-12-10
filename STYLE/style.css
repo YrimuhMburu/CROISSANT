@@ -1,5 +1,6 @@
-body {
+p {
   background-color: rgb(9, 0, 0);
+  text-align: center;
 }
 h1 {
   color: rgb(246, 141, 13);
@@ -12,12 +13,13 @@ h1 {
   display: block;
   margin: 40px 0px;
   border-radius: 10px;
+  text-align: center;
 }
 footer {
   text-align: center;
-  color: rgb(237, 233, 30)
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(237, 233, 30);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 footer a {
   margin: 15px;
