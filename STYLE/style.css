@@ -1,5 +1,24 @@
+body {
+  background-color: black;
+}
 h1 {
   color: darkorange;
-  background-color: black;
+  text-align: center;
+
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.photo {
+  max-width: 50%;
+  display: block;
+  margin: 40px 0px;
+  border-radius: 10px;
+}
+footer {
+  text-align: center;
+  text-color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+footer a {
+  margin: 15px;
 }
