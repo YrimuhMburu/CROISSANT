@@ -1,8 +1,8 @@
 body {
-  background-color: black;
+  background-color: rgb(9, 0, 0);
 }
 h1 {
-  color: darkorange;
+  color: rgb(246, 141, 13);
   text-align: center;
 
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -15,7 +15,7 @@ h1 {
 }
 footer {
   text-align: center;
-  color: white;
+  color: rgb(237, 233, 30)
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
